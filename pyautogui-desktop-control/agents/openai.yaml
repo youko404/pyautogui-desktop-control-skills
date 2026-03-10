@@ -1,0 +1,4 @@
+interface:
+  display_name: "PyAutoGUI Desktop Control"
+  short_description: "用 PyAutoGUI 执行桌面自动化、鼠标键盘控制与文本输入"
+  default_prompt: "Use $pyautogui-desktop-control to inspect the screen, move the mouse, click, press keys, and type text on the local desktop."
